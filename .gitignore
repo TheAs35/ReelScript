@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+backend/venv/
+
+# Build
+frontend/dist/
+
+# IDE/Tools
+.omc/
+.claude/
+2026-*.txt
+
+# OS
+.DS_Store
+Thumbs.db
